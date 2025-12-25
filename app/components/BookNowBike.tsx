@@ -52,7 +52,7 @@ const BookNowBike = () => {
                 </div>
             </div>
             <img src="/assets/images/bike.png" alt="tourist woman"
-            className="max-w-75 sm:max-w-124 2xl:w-[40%] 2xl:max-w-max absolute -bottom-5.5 right-[40%] translate-x-1/2 lg:translate-x-0 lg:right-10 2xl:right-[220px]"/>
+            className="max-w-75 sm:max-w-124 2xl:w-[40%] 2xl:max-w-max absolute -bottom-5.5 right-[40%] translate-x-1/2 lg:translate-x-0 lg:right-10 2xl:right-55"/>
             <Image src="/assets/images/bg.png" alt="Hero Background" fill  className="object-cover -z-10"  priority  />
         </div>
     )
